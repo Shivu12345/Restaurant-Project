@@ -1,0 +1,290 @@
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll.config
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.pdb
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe.config
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.rsp
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe.config
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.rsp
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.AppContext.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Collections.Immutable.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Console.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.Process.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Compression.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Pipes.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Reflection.Metadata.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.AccessControl.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Claims.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Threading.Thread.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.ValueTuple.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe.config
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.rsp
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe.config
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csprojAssemblyReference.cache
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CoreCompileInputs.cache
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CopyComplete
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.dll
+H:\Documents\Ecommerce2\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.pdb
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll.config
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.pdb
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe.config
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.rsp
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe.config
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.rsp
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.AppContext.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Collections.Immutable.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Console.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.Process.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Compression.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Pipes.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Reflection.Metadata.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.AccessControl.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Claims.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Threading.Thread.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.ValueTuple.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe.config
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.rsp
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe.config
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Documents\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CoreCompileInputs.cache
+H:\Documents\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CopyComplete
+H:\Documents\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.dll
+H:\Documents\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.pdb
+H:\Documents\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csprojAssemblyReference.cache
+D:\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll.config
+D:\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll
+D:\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.pdb
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe.config
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.rsp
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe.config
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.rsp
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.AppContext.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Collections.Immutable.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Console.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.Process.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Compression.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Pipes.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Reflection.Metadata.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.AccessControl.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Claims.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Principal.Windows.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Threading.Thread.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.ValueTuple.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe.config
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.rsp
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe
+D:\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe.config
+D:\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csprojAssemblyReference.cache
+D:\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CoreCompileInputs.cache
+D:\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CopyComplete
+D:\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.dll
+D:\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.pdb
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Collections.Immutable.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Reflection.Metadata.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.ValueTuple.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll.config
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.pdb
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe.config
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.rsp
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe.config
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.rsp
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.AppContext.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Console.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.Process.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Compression.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Pipes.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.AccessControl.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Claims.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Principal.Windows.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Threading.Thread.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XmlDocument.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe.config
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.rsp
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe.config
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CoreCompileInputs.cache
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CopyComplete
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.dll
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.pdb
+H:\E- Commerce Software Assignment - 1\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csprojAssemblyReference.cache
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll.config
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\RestaurantDetails.pdb
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.exe.config
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csc.rsp
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.exe.config
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\csi.rsp
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.AppContext.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Collections.Immutable.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Console.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.Process.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Compression.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.IO.Pipes.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Reflection.Metadata.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.AccessControl.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Claims.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Security.Principal.Windows.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Threading.Thread.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.ValueTuple.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XmlDocument.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.exe.config
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\vbc.rsp
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\roslyn\VBCSCompiler.exe.config
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csprojAssemblyReference.cache
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CoreCompileInputs.cache
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.csproj.CopyComplete
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.dll
+H:\E- Commerce Software Assignment - 1\IMAT5210\RestaurantDetails\RestaurantDetails\obj\Debug\RestaurantDetails.pdb
